@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Environment variables (JANGAN SAMPAI TERUPLOAD!)
+.env
+.env.local
+.env.production
+.env.development
+.env*.local
+
+# Logs
+*.log
+npm-debug.log*
